@@ -188,7 +188,7 @@ while game:
             asteroids.add(asteroid)
 
     time.delay(40)
-
+######
     
 
 
